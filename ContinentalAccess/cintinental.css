@@ -1,0 +1,143 @@
+.Main_Header{
+    text-align: center;
+    color: #00FF33;
+}
+
+body{
+    background-color: black;
+}
+
+.titleFormWrapper{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.titleFormWrapper2{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.titleFormWrapper3{
+    text-align: center;
+    padding-top: 10px;
+}
+.titleFormWrapper4{
+    text-align: center;
+    padding-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.titleForm{
+    padding-top: 10px;
+    display: inline-block;
+    text-align: center;
+    border-style: solid;
+    border-color: #00FF33;
+    width: 250px;
+    height: 200px;
+}
+.titleForm1{
+    padding-top: 10px;
+    display: inline-block;
+    text-align: center;
+    border-style: solid;
+    border-color: #00FF33;
+    width: 250px;
+    height: 300px;
+}
+
+.titleForm2{
+    padding-top: 15px;
+    display: inline-block;
+    text-align: center;
+    border-style: solid;
+    border-color: #00FF33;
+    width: 250px;
+    height: 200px;
+}
+input[type=text], input[type=submit], input[type=button], input[type=reset] {
+    background-color: black;
+    color: #00FF33;
+    
+}
+.linkToHits{
+    background-color: black;
+    color: #00FF33;
+}
+.hiddenLink{
+    background-color: black;
+    color: #00FF33;
+}
+a{
+    text-decoration: none;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.FakeError{
+    background-color: black;
+    color: #00FF33;
+}
+
+.eodTable{
+    text-align: justify;
+}
+
+.coolButton{
+    background-color: black;
+    color: #00FF33;
+    text-align: center;
+}
+
+.emptyBox{
+    border: none;
+    background-color: black;
+    color: #00FF33;
+}
+
+input.emptyBox:focus {
+    outline-width: 0;
+}
+
+.GameTable{
+    border: 1px solid #00FF33;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.GameTableTh{
+    height: 200px;
+    width: 300px;
+    cursor: crosshair;
+}
+
+.GameTableTh:hover{
+    height: 200px;
+    width: 300px;
+    cursor: crosshair;
+}
+.GameTableImg{
+    height: 200px;
+    width: 300px;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    height: 200px;
+    border: 1px solid #00FF33;
+}
+
+.countDownTimer{
+    text-align: center;
+    color: #00FF33;
+    font-size: xx-large;
+    padding-bottom: 15px;
+}
